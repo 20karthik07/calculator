@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  font-size: 35px;
+  margin-bottom: 20px;
+  color: red;
+}
+
+.container {
+  display: inline-block;
+  border: 2px solid black;
+  padding: 20px;
+  background-color: white;
+}
+
+table {
+  margin: auto;
+  justify-content: center;
+}
+
+.typing {
+  padding: 10px;
+  text-align: right;
+}
+
+input {
+  font-size: 25px;
+  padding: 10px;
+  text-align: right;
+  color: black;
+}
+
+.b {
+  background-color: black;
+  color: yellow;
+  padding: 15px 30px;
+  text-align: center;
+  font-size: 25px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
